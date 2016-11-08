@@ -9,7 +9,7 @@ body {
 
 
 .navbar-default {
-    background-color: #f8f8f8;
+    background-color: #5E413E;
     border-color: #e7e7e7;
     padding-top: 10px;
     padding-left: 10px;
@@ -26,17 +26,16 @@ body {
 	margin-left: 25px;
 }
 
+#search-term {
+	width: 400px;
+}
+
 #logo {
 	height: 55px;
 	width: 37px;
 }
 
-.header {
-	height: 100px;
-	width: 100%;
-	text-align: center;
-	background-color: grey;
-}
+
 
 #buttons {
 	width: 100%;
@@ -52,11 +51,17 @@ body {
 .item {
 	display: inline-block;
 	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-top: 2px;
 }
 
 .searchTerm {
 	margin-right: 5px;
 	margin-bottom: 5px;
+	width: 100%;
+	height: 50px;
+	background-color: #2A2221;
+	color: white;
 }
 
 #buttons-view {
@@ -66,4 +71,11 @@ body {
 
 h4 {
 	border-bottom: 1px solid grey;
+	padding-bottom: 5px;
 }
+
+p {
+	font-weight: bold;
+    margin: 0 0 2px;
+}
+
