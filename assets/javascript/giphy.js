@@ -3,7 +3,7 @@ $(document).ready();
 
 //Objectives
 
-var searchTermArray = ['John Candy', 'Steve Martin', 'Eddie Murphy', 'Chevy Chase', 'Chris Farley'];
+var searchTermArray = ['Elephants', 'Monkeys', 'Lions', 'Tigers', 'Polar Bears'];
 
 
 
